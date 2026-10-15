@@ -9,6 +9,9 @@ The official Fever Diary website, with product information, support, and privacy
 页面使用真实应用界面与演示数据，适配 iPhone、iPad 和桌面浏览器。
 The responsive pages use actual app screens with demonstration data.
 
+静态样式与脚本使用内容指纹，让页面更新后加载对应版本。
+Styles and scripts use content fingerprints to keep cached assets consistent with each release.
+
 联系 / Contact: [497055328@qq.com](mailto:497055328@qq.com)
 
 © 2026 汉秋 / Hanqiu
